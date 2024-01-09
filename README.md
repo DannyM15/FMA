@@ -11,9 +11,7 @@ The issues the project presented was how difficult using flexbox and its feature
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+https://dannym15.github.io/FMA/
 
 (assests/images/homeworkSS.PNG)
 
